@@ -17,7 +17,6 @@ Now, as I work towards graduation, I am expanding my skill set by exploring **we
 - **Mathematical Cross-Sections (Python)** – Computed and visualized volume of solids using numerical integration.  
 
 ## 📫 Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile](#)  
 - **GitHub:** [github.com/Pluto0nMars](https://github.com/yourusername)  
 - **Email:** aakindelen132@gmail.com  
 
