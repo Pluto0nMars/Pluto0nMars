@@ -4,7 +4,7 @@ I'm currently pursuing a **B.S. in Computer Science at the University of Illinoi
 
 ## 🔧 Technical Skills
 
-* **Languages:** Python, C++, C, MySQL, HTML/CSS, JavaScript (learning)
+* **Languages:** Python, C++, C, MySQL, HTML/CSS, Java
 * **Libraries/Frameworks:** PyTorch, TensorFlow, matplotlib, cryptography, python-chess
 * **Tools:** Git, GDB, VS Code, Jupyter, Valgrind, Figma, SharePoint, AWS
 * **CS Topics:** Object-Oriented Programming, Memory Management, Dynamic Programming, Data Structures, Algorithms
