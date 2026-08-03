@@ -1,20 +1,36 @@
-# Hi, I'm Sola!
+## Hi, I'm [Sola](https://pluto0nmars.github.io/Personal-Website/#projects)
 
-I'm currently pursuing a **B.S. in Computer Science at the University of Illinois Chicago**, with a strong academic foundation in **algorithms, systems programming, and data structures**. I’ve applied these skills in research settings, hackathons, and personal projects—ranging from AI modeling to command-line tools and game simulations.
+ 🎓Computer Science Student @ University of Illinois Chicago | Expected Graduation: December 2026
 
-## 🔧 Technical Skills
+ I'm a fairly driven developer that likes to learn new things. Currently, I'm primarily focused on software engineering with a strong interest in back-end development utilizing data structures, algorithms, and open source tools/ technologies to solve real problems. I try to think of projects as a display of my love of programming and learning.
 
-* **Languages:** Python, C++, C, MySQL, HTML/CSS, Java
-* **Libraries/Frameworks:** PyTorch, TensorFlow, matplotlib, cryptography, python-chess
-* **Tools:** Git, GDB, VS Code, Jupyter, Valgrind, Figma, SharePoint, AWS
-* **CS Topics:** Object-Oriented Programming, Memory Management, Dynamic Programming, Data Structures, Algorithms
+ My interests include web development and systems programming.
 
-## Experience
 
-* **Research Aide @ Argonne National Lab**
-  Built and trained image classification models using PyTorch and TensorFlow. Gained hands-on experience with LLMs and statistical learning models in a research-focused environment.
+## ⚙️ Languages/Frameworks/Tools
 
-* **Math Peer Learning Assistant @ UIC**
-  Supported students in Calculus I–III lectures and labs, reinforcing both communication and teaching skills.
+| Category | Skills |
+| --- | --- |
+| **Languages** | C/C++, Java, JavaScript, Python, SQL |
+| **Frameworks** | React.js,  Flutter, PyTorch |
+| **Tools/OS** | Git/Github, GDB, vim, Unix/Linux CLI |
+| **Relevant Coursework** | Data Structures and Algorithms, Software Design, Systems Programming |
+
+
+ ## 💻Experience
+ * Machine Learning research aide @ [**Argonne National Laboratory**](https://www.anl.gov/)
+ * Computer Science Teaching Assistant @ [**University of Illinois Chicago**](https://www.uic.edu/)
+ * Math Teaching Assistant @ [**University of Illinois Chicago**](https://www.uic.edu/)
+
+---
+Fun Fact: I really like solving the daily puzzles on [**chess.com**](https://www.chess.com/home)
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sola-akindele-731332278)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Pluto0nMars)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/souwopp)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-%23000000.svg?logo=letterboxd&logoColor=00e054)](https://letterboxd.com/roleo8)
+
 
 
