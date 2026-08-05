@@ -1,4 +1,4 @@
-## Hi, I'm <a href="https://pluto0nmars.github.io/Personal-Website/#projects" target="_blank" rel="noopener noreferrer">Sola</a>
+## Hi, I'm <a href="https://pluto0nmars.github.io/Personal-Website" target="_blank" rel="noopener noreferrer">Sola</a>
 
  🎓Computer Science Student @ University of Illinois Chicago | Expected Graduation: December 2026
 
