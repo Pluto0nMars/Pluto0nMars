@@ -2,7 +2,7 @@
 
  🎓Computer Science Student @ University of Illinois Chicago | Expected Graduation: December 2026
 
- I'm a fairly driven developer that likes to learn new things. Currently, I'm primarily focused on software engineering with a strong interest in back-end development utilizing data structures, algorithms, and open source tools/technologies to solve real problems. I try to think of projects as a display of my love of programming and learning.
+ I'm a fairly driven developer that likes to learn new things. Currently, I'm primarily focused on software engineering with a strong interest in back-end development utilizing data structures, algorithms, and open source tools/technologies to solve real problems. I try to think of projects as a display of my love of programming and learning. I'm also a teaching assistant for Data Structures at UIC (CS 251), I really like explaining new concepts to people quite a bit.
 
  My interests include web development and systems programming.
 
