@@ -11,7 +11,7 @@
 
 | Category | Skills |
 | --- | --- |
-| **Languages** | C/C++, Java, JavaScript, Python, SQL |
+| **Languages** | C/C++, C#, Java, JavaScript, Python, SQL |
 | **Frameworks** | React.js,  Flutter, PyTorch |
 | **Tools/OS** | Git/Github, GDB, vim, Unix/Linux CLI |
 | **Relevant Coursework** | Data Structures and Algorithms, Software Design, Systems Programming |
